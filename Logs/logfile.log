@@ -1745,3 +1745,61 @@ tton
  2023-09-23 15:21:50,049 : INFO : test_login_param_04 : test_login_param_04 Clicked Login
  2023-09-23 15:21:52,178 : INFO : test_login_param_04 : test_login_param_04 Is Completed
  2023-09-23 15:21:52,178 : INFO : test_login_param_04 : test_login_param_04 Is Passed
+ 2023-09-26 00:41:26,793 : INFO : test_url_01 : test_url_01 Opening Browser and URL
+ 2023-09-26 00:41:26,793 : INFO : test_login_param_04 : test_login_param_04 Opening Browser and URL
+ 2023-09-26 00:41:26,793 : INFO : test_order_03 : test_order_03 Opening Browser and URL
+ 2023-09-26 00:41:26,899 : INFO : test_url_01 : test_url_01 checking page title
+ 2023-09-26 00:41:26,899 : INFO : test_url_01 : test_url_01 is Passed
+ 2023-09-26 00:41:26,900 : INFO : test_url_01 : test_url_01 is Completed
+ 2023-09-26 00:41:27,413 : INFO : test_login_param_04 : test_login_param_04 Insert Username ->standard_dom
+ 2023-09-26 00:41:27,413 : INFO : test_order_03 : test_order_03 Insert Username ->standard_user
+ 2023-09-26 00:41:27,623 : INFO : test_login_param_04 : test_login_param_04 Insert Password ->secret_sauce
+ 2023-09-26 00:41:27,633 : INFO : test_order_03 : test_order_03 Insert Password ->secret_sauce
+ 2023-09-26 00:41:27,827 : INFO : test_login_param_04 : test_login_param_04 Clicked Login
+ 2023-09-26 00:41:28,089 : INFO : test_order_03 : test_order_03 Clicked To Login
+ 2023-09-26 00:41:28,124 : INFO : test_order_03 : test_order_03 Login Successful
+ 2023-09-26 00:41:28,412 : INFO : test_order_03 : test_order_03 Bike Light Added To Cart
+ 2023-09-26 00:41:28,742 : INFO : test_order_03 : test_order_03 Fleece Jacket Added To Cart
+ 2023-09-26 00:41:28,943 : INFO : test_order_03 : test_order_03 Clicked To Cart
+ 2023-09-26 00:41:28,979 : INFO : test_order_03 : test_order_03 verified Checkout Button
+ 2023-09-26 00:41:29,162 : INFO : test_order_03 : test_order_03 Clicked To Checkout Button
+ 2023-09-26 00:41:29,332 : INFO : test_order_03 : test_order_03 Entered First Name ->emma
+ 2023-09-26 00:41:29,576 : INFO : test_order_03 : test_order_03 Entered Lastname Name ->carter
+ 2023-09-26 00:41:29,752 : INFO : test_order_03 : test_order_03 Entered Zip Code ->391003
+ 2023-09-26 00:41:29,906 : INFO : test_url_02 : test_url_02 Opening Browser and URL
+ 2023-09-26 00:41:30,031 : INFO : test_order_03 : test_order_03 Clicked To Continue
+ 2023-09-26 00:41:30,401 : INFO : test_order_03 : test_order_03 Clicked To Finish Button
+ 2023-09-26 00:41:30,424 : INFO : test_url_02 : test_url_02 Insert Username ->standard_user
+ 2023-09-26 00:41:30,456 : INFO : test_order_03 : test_order_03 Verified Placed Order
+ 2023-09-26 00:41:30,660 : INFO : test_login_param_04 : test_login_param_04 Is Completed
+ 2023-09-26 00:41:30,660 : INFO : test_login_param_04 : test_login_param_04 Is Passed
+ 2023-09-26 00:41:30,701 : INFO : test_order_03 : test_order_03 Is Complete
+ 2023-09-26 00:41:30,812 : INFO : test_url_02 : test_url_02 Insert Password ->secret_sauce
+ 2023-09-26 00:41:31,073 : INFO : test_url_02 : test_url_02 Clicked Login
+ 2023-09-26 00:41:31,110 : INFO : test_url_02 : test_url_02 Verified Menu Button
+ 2023-09-26 00:41:31,132 : INFO : test_url_02 : test_url_02 Checked Login Status
+ 2023-09-26 00:41:31,225 : INFO : test_url_02 : test_url_02 Clicked Menu Button
+ 2023-09-26 00:41:31,558 : INFO : test_url_02 : test_url_02 Clicked Logout Button
+ 2023-09-26 00:41:32,294 : INFO : test_url_02 : test_url_02 Is Passed
+ 2023-09-26 00:41:32,296 : INFO : test_url_02 : test_url_02 Is Completed
+ 2023-09-26 00:41:34,399 : INFO : test_login_param_04 : test_login_param_04 Opening Browser and URL
+ 2023-09-26 00:41:34,415 : INFO : test_login_param_04 : test_login_param_04 Opening Browser and URL
+ 2023-09-26 00:41:34,970 : INFO : test_login_param_04 : test_login_param_04 Insert Username ->standard_user
+ 2023-09-26 00:41:35,065 : INFO : test_login_param_04 : test_login_param_04 Insert Username ->standard_user
+ 2023-09-26 00:41:35,307 : INFO : test_login_param_04 : test_login_param_04 Insert Password ->beauty
+ 2023-09-26 00:41:35,467 : INFO : test_login_param_04 : test_login_param_04 Insert Password ->secret_sauce
+ 2023-09-26 00:41:35,603 : INFO : test_login_param_04 : test_login_param_04 Clicked Login
+ 2023-09-26 00:41:35,697 : INFO : test_login_param_04 : test_login_param_04 Opening Browser and URL
+ 2023-09-26 00:41:35,978 : INFO : test_login_param_04 : test_login_param_04 Clicked Login
+ 2023-09-26 00:41:36,009 : INFO : test_login_param_04 : test_login_param_04 Insert Username ->john
+ 2023-09-26 00:41:36,035 : INFO : test_login_param_04 : test_login_param_04 Verified Menu Button
+ 2023-09-26 00:41:36,036 : INFO : test_login_param_04 : test_login_param_04 Checked Login Status
+ 2023-09-26 00:41:36,192 : INFO : test_login_param_04 : test_login_param_04 Clicked Menu Button
+ 2023-09-26 00:41:36,246 : INFO : test_login_param_04 : test_login_param_04 Insert Password ->cena
+ 2023-09-26 00:41:36,432 : INFO : test_login_param_04 : test_login_param_04 Clicked Login
+ 2023-09-26 00:41:36,436 : INFO : test_login_param_04 : test_login_param_04 Clicked Logout Button
+ 2023-09-26 00:41:36,563 : INFO : test_login_param_04 : test_login_param_04 Is Passed
+ 2023-09-26 00:41:37,880 : INFO : test_login_param_04 : test_login_param_04 Is Completed
+ 2023-09-26 00:41:37,880 : INFO : test_login_param_04 : test_login_param_04 Is Passed
+ 2023-09-26 00:41:38,774 : INFO : test_login_param_04 : test_login_param_04 Is Completed
+ 2023-09-26 00:41:38,774 : INFO : test_login_param_04 : test_login_param_04 Is Passed
